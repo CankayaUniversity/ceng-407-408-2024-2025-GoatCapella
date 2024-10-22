@@ -1,7 +1,7 @@
 # GoatCapella
 GoatCapella is an ASP.NET Core web application whose main purpose is creating a challenging, social and productive environment by assembling various Coding Platforms like LeetCode under the Challenge Management roof using their public API(s).
 
-## Features:
+## Features
 - Challenges can be created by anyone.
 - Challenges might be public, semi-public or private.
 - Challenges consist of one or more questions picked from various platforms.
