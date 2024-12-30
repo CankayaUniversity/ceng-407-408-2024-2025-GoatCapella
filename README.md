@@ -33,5 +33,5 @@ GoatCapella is an ASP.NET Core web application whose main purpose is creating a 
 - [Literature Review](https://github.com/CankayaUniversity/ceng-407-408-2024-2025-GoatCapella/blob/main/documents/LiteratureReview.pdf)
 
 ## Advisors
-- Serdar ARSLAN (CENG)
-- Bilgin AVENOĞLU (SENG)
+- Dr. Instructor Serdar ARSLAN (CENG)
+- Dr. Instructor Bilgin AVENOĞLU (SENG)
