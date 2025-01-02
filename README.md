@@ -28,9 +28,9 @@ GoatCapella is an ASP.NET Core web application whose main purpose is creating a 
 
 ## Documents 
 - [Project Work Plan](https://github.com/CankayaUniversity/ceng-407-408-2024-2025-GoatCapella/wiki/Ceng-407-Project-Work-Plan)
-- [Software Design Document (SDD)](https://github.com/CankayaUniversity/ceng-407-408-2024-2025-GoatCapella/blob/main/documents/GoatCapella-SDD.pdf)
-- [Software Requirements Specification (SRS)](https://github.com/CankayaUniversity/ceng-407-408-2024-2025-GoatCapella/blob/main/documents/GoatCapella-SRS.pdf)
-- [Literature Review](https://github.com/CankayaUniversity/ceng-407-408-2024-2025-GoatCapella/blob/main/documents/LiteratureReview.pdf)
+- [Software Design Document (SDD)](https://github.com/CankayaUniversity/ceng-407-408-2024-2025-GoatCapella/wiki/Software-Design-Description)
+- [Software Requirements Specification (SRS)](https://github.com/CankayaUniversity/ceng-407-408-2024-2025-GoatCapella/wiki/Software-Requirement-Specification)
+- [Literature Review](https://github.com/CankayaUniversity/ceng-407-408-2024-2025-GoatCapella/wiki/Literature-Review)
 
 ## Advisors
 - Dr. Instructor Serdar ARSLAN (CENG)
